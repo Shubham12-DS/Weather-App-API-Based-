@@ -19,5 +19,4 @@ This is a beginner-friendly **command-line Python app** that fetches and display
 ### 1. 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+https://github.com/Shubham12-DS/Weather-App-API-Based-
